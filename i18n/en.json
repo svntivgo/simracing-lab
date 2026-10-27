@@ -1,0 +1,29 @@
+{
+  "common": {
+    "send": "Send",
+    "save": "Save",
+    "back": "Back",
+    "cancel": "Cancel",
+    "loading": "Loading..."
+  },
+  "strategy": {
+    "title": "Race strategy",
+    "fuelPerLap": "Fuel per lap",
+    "averageLaptime": "Average laptime",
+    "raceDuration": "Race duration",
+    "raceFormat": "Race format",
+    "calculate": "Calculate strategy",
+    "requiredFuel": "Required fuel",
+    "lapLimit": "Lap limit",
+    "timeLimit": "Time limit",
+    "extraFuel": "Extra fuel",
+    "reserveFuelPercentage": "Reserve fuel",
+    "reserveFuelLaps": "Reserve laps",
+    "estimadedRaceFuel": "Estimated race fuel",
+    "recomendedTotalFuel": "Recommended total fuel",
+    "estimadedFuelLaps": "Estimated fuel laps",
+    "estimadedFuelTime": "Estimated fuel time",
+    "raceDurationTimePlaceholder": "HH:MM, e.g. 01:30",
+    "raceDurationLapsPlaceholder": "Number of laps, e.g. 15"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "common": {
+    "send": "Enviar",
+    "save": "Guardar",
+    "back": "Atrás",
+    "cancel": "Cancelar",
+    "loading": "Cargando..."
+  },
+  "strategy": {
+    "title": "Estrategia de carrera",
+    "fuelPerLap": "Consumo por vuelta",
+    "averageLaptime": "Tiempo por vuelta promedio",
+    "raceDuration": "Duración de carrera",
+    "raceFormat": "Formato de carrera",
+    "calculate": "Calcular estrategia",
+    "requiredFuel": "Combustible necesario",
+    "lapLimit": "Límite de vueltas",
+    "timeLimit": "Límite de tiempo",
+    "extraFuel": "Combustible extra",
+    "reserveFuelPercentage": "Combustible de reserva",
+    "reserveFuelLaps": "Vueltas de reserva",
+    "estimadedRaceFuel": "Combustible estimado de carrera",
+    "recomendedTotalFuel": "Combustible total recomendado",
+    "estimadedFuelLaps": "Vueltas de combustible estimadas",
+    "estimadedFuelTime": "Tiempo de combustible estimado",
+    "raceDurationTimePlaceholder": "HH:MM, ej. 01:30",
+    "raceDurationLapsPlaceholder": "Número de vueltas, ej. 15"
+  }
+}
